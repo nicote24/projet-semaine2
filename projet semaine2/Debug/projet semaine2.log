@@ -1,0 +1,602 @@
+﻿  ArmureCommun.cpp
+  Assassin.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guerrier.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\tank.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+  Aventurier.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.cpp(16): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.cpp(62): error C3867: 'Aventurier::getArme' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.cpp(65): error C3867: 'Aventurier::getArmure' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.cpp(74): error C3867: 'Objet::getAtt' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.cpp(91): error C3867: 'Objet::getDef' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+  Boutique.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.cpp(32): error C3867: 'Guilde::getGold' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.cpp(32): error C2446: '<' : pas de conversion de 'int' en 'int (__thiscall Guilde::* )(void) const'
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.cpp(32): note: Aucune conversion de valeurs intégrales en valeurs pointeurs de membres
+  BoutiqueArme.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\yvals.h(1125): error C2059: erreur de syntaxe : 'namespace'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\yvals.h(1125): error C2143: erreur de syntaxe : absence de ';' avant '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\yvals.h(1125): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(165): error C2065: '_Lockit' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(165): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(165): error C3861: '_Lock' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(176): error C2065: '_Lockit' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(176): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(176): error C3861: '_Lock' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(186): error C2065: '_Lockit' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(186): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(186): error C3861: '_Lock' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(197): error C2065: '_Lockit' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(197): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(197): error C3861: '_Lock' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(255): error C2065: '_Lockit' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(255): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(255): error C3861: '_Lock' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(268): error C2065: '_Lockit' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(268): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xutility(268): error C3861: '_Lock' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocinfo(225): error C3646: '_Lock' : spécificateur de substitution inconnu
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocinfo(225): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocinfo(73): error C2614: 'std::_Locinfo' : initialisation de membre non conforme : '_Lock' n'est ni une base ni un membre
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocinfo(84): error C2614: 'std::_Locinfo' : initialisation de membre non conforme : '_Lock' n'est ni une base ni un membre
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(458): error C2460: 'std::locale::_Uninitialized' : utilise 'std::locale', en cours de définition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(100): note: voir la déclaration de 'std::locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(293): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(293): error C2061: erreur de syntaxe : identificateur 'locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): error C2065: '_Right' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(293): error C2228: la partie gauche de '._Ptr' doit avoir un class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(293): note: le type est 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(293): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(299): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(303): error C2059: erreur de syntaxe : ')'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(304): error C3861: '_Init' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(304): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(304): error C2374: 'std::_Ptr' : redéfinition ; initialisation multiple
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): note: voir la déclaration de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(305): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(309): error C2059: erreur de syntaxe : 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): error C2653: '_Locimp' : n'est pas un nom de classe ni d'espace de noms
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): error C2065: '_Loc' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): error C2228: la partie gauche de '._Ptr' doit avoir un class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): note: le type est 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): error C3861: '_New_Locimp' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(311): error C2374: 'std::_Ptr' : redéfinition ; initialisation multiple
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): note: voir la déclaration de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(312): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(333): error C2059: erreur de syntaxe : 'private'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(335): error C2061: erreur de syntaxe : identificateur 'category'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(365): error C2059: erreur de syntaxe : 'public'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(366): error C2059: erreur de syntaxe : 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(368): error C2653: '_Locimp' : n'est pas un nom de classe ni d'espace de noms
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(368): error C3861: '_New_Locimp' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(368): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(368): error C2374: 'std::_Ptr' : redéfinition ; initialisation multiple
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): note: voir la déclaration de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(369): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(377): error C2059: erreur de syntaxe : 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): error C2653: '_Locimp' : n'est pas un nom de classe ni d'espace de noms
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): error C2065: '_Loc' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): error C2228: la partie gauche de '._Ptr' doit avoir un class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): note: le type est 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): error C3861: '_New_Locimp' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(379): error C2374: 'std::_Ptr' : redéfinition ; initialisation multiple
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): note: voir la déclaration de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(380): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(388): error C2059: erreur de syntaxe : 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(390): error C2653: '_Locimp' : n'est pas un nom de classe ni d'espace de noms
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(390): error C3861: '_New_Locimp' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(390): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(390): error C2374: 'std::_Ptr' : redéfinition ; initialisation multiple
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): note: voir la déclaration de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(391): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(395): error C2059: erreur de syntaxe : 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): error C2653: '_Locimp' : n'est pas un nom de classe ni d'espace de noms
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): error C2065: '_Loc' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): error C2228: la partie gauche de '._Ptr' doit avoir un class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): note: le type est 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): error C3861: '_New_Locimp' : identificateur introuvable
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(397): error C2374: 'std::_Ptr' : redéfinition ; initialisation multiple
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(298): note: voir la déclaration de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(398): error C2448: 'std::_Ptr' : l'initialiseur de style fonction semble être une définition de fonction
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(403): error C2588: '::~locale' : destructeur global non conforme
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(404): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(406): error C2227: la partie gauche de '->_Decref' doit pointer vers un type class/struct/union/générique
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(406): note: le type est 'int'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(407): warning C4508: 'std::locale' : la fonction doit retourner une valeur ; type de retour 'void' pris par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(409): error C2143: erreur de syntaxe : absence de ';' avant '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(409): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(409): error C2373: 'std::locale' : redéfinition ; modificateurs de type différents
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(403): note: voir la déclaration de 'std::locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(409): error C2143: erreur de syntaxe : absence de ',' avant '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(410): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(410): error C2801: 'std::operator =' doit être un membre non static
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(410): error C2059: erreur de syntaxe : '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(410): error C2143: erreur de syntaxe : absence de ';' avant '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(410): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(421): error C2270: 'name' : modificateurs non autorisés sur les fonctions non membres
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(422): error C2227: la partie gauche de '->_Name' doit pointer vers un type class/struct/union/générique
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(422): note: le type est 'int'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(422): error C2228: la partie gauche de '.c_str' doit avoir un class/struct/union
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(426): error C2270: 'c_str' : modificateurs non autorisés sur les fonctions non membres
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(427): error C2227: la partie gauche de '->_Name' doit pointer vers un type class/struct/union/générique
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(427): note: le type est 'int'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(427): error C2228: la partie gauche de '.c_str' doit avoir un class/struct/union
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(430): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(430): error C2143: erreur de syntaxe : absence de ';' avant '*'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(431): error C2270: '_Getfacet' : modificateurs non autorisés sur les fonctions non membres
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(431): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(431): error C2059: erreur de syntaxe : '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(431): error C2143: erreur de syntaxe : absence de ';' avant '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(431): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(445): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(445): error C2143: erreur de syntaxe : absence de ',' avant '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(446): error C2270: '==' : modificateurs non autorisés sur les fonctions non membres
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(446): error C2803: 'operator ==' doit avoir au moins un paramètre de type classe
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(446): error C2805: nombre de paramètres insuffisant pour l'opérateur binaire 'operator =='
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(447): error C2065: '_Loc' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(448): error C2228: la partie gauche de '._Ptr' doit avoir un class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(448): note: le type est 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(449): error C2065: '_Loc' : identificateur non déclaré
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(449): error C2228: la partie gauche de '.name' doit avoir un class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(449): note: le type est 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(452): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(452): error C2143: erreur de syntaxe : absence de ',' avant '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(453): error C2270: '!=' : modificateurs non autorisés sur les fonctions non membres
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(453): error C2803: 'operator !=' doit avoir au moins un paramètre de type classe
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(453): error C2805: nombre de paramètres insuffisant pour l'opérateur binaire 'operator !='
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(454): error C2355: 'this' : ne peut être référencé qu'à l'intérieur de fonctions membres non static ou d'initialiseurs de membres de données non static
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xlocale(454): fatal error C1003: le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+  Classe.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guerrier.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\assassin.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\tank.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+  Elfe.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(17): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(20): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(8): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(8): note: est peut-être 'int genererVie(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(9): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(9): note: est peut-être 'int genererCha(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(10): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(10): note: est peut-être 'int genererDef(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(11): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.cpp(11): note: est peut-être 'int genererAtt(void)'
+  Guerrier.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\assassin.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\tank.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+  Guilde.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.cpp(27): error C3867: 'std::list<Aventurier *,std::allocator<_Ty>>::size' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+          with
+          [
+              _Ty=Aventurier *
+          ]
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.cpp(27): error C2446: '<' : pas de conversion de 'int' en 'unsigned int (__thiscall std::list<Aventurier *,std::allocator<_Ty>>::* )(void) noexcept const'
+          with
+          [
+              _Ty=Aventurier *
+          ]
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.cpp(27): note: Aucune conversion de valeurs intégrales en valeurs pointeurs de membres
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.cpp(66): warning C4018: '<' : incompatibilité signed/unsigned
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.cpp(87): warning C4018: '<' : incompatibilité signed/unsigned
+  Humain.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(17): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(20): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(9): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(9): note: est peut-être 'int genererVie(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(10): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(10): note: est peut-être 'int genererAtt(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(11): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(11): note: est peut-être 'int genererDef(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(12): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.cpp(12): note: est peut-être 'int genererCha(void)'
+  Jeu.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\jeu.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\jeu.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\jeu.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(5): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Mission.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.cpp(25): warning C4018: '<' : incompatibilité signed/unsigned
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.cpp(27): error C2679: '<<' binaire : aucun opérateur trouvé qui accepte un opérande de partie droite de type 'std::list<Aventurier *,std::allocator<_Ty>>' (ou il n'existe pas de conversion acceptable)
+          with
+          [
+              _Ty=Aventurier *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(500): note: est peut-être 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(480): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(460): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(440): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(420): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(400): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(380): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(360): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(340): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(320): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(295): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(275): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(241): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(221): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(215): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(209): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(204): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(1021): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(983): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,std::list<Aventurier *,std::allocator<_Ty>>>(std::basic_ostream<char,std::char_traits<char>> &&,const std::list<_Ty,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=Aventurier *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(973): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(966): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(959): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(952): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(826): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(779): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(741): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\ostream(694): note: ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.cpp(27): note: lors de la tentative de mise en correspondance de la liste des arguments '(std::basic_ostream<char,std::char_traits<char>>, std::list<Aventurier *,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=Aventurier *
+          ]
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.cpp(49): warning C4018: '<' : incompatibilité signed/unsigned
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.cpp(62): error C2039: 'MonterNiveau' : n'est pas membre de 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'
+          with
+          [
+              _Ty=Aventurier *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\list(508): note: voir la déclaration de 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'
+          with
+          [
+              _Ty=Aventurier *
+          ]
+  Orc.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(20): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(20): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(7): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(7): note: est peut-être 'int genererVie(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(8): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(8): note: est peut-être 'int genererCha(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(9): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(9): note: est peut-être 'int genererDef(void)'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(10): error C2568: '=' : impossible de résoudre la surcharge de fonction
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.cpp(10): note: est peut-être 'int genererAtt(void)'
+  projet semaine2.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\mission.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guilde.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\jeu.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\jeu.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\jeu.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutique.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\boutiquearme.h(5): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Race.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(17): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(20): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\humain.h(20): error C2504: 'Race' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(28): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(47): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(52): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maRace' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+  Tank.cpp
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(14): error C2084: la fonction 'int genererVie(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(11): note: voir la définition précédente de 'genererVie'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(15): error C2084: la fonction 'int genererAtt(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(12): note: voir la définition précédente de 'genererAtt'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(16): error C2084: la fonction 'int genererDef(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(13): note: voir la définition précédente de 'genererDef'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\elfe.h(17): error C2084: la fonction 'int genererCha(void)' a déjà un corps
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\orc.h(14): note: voir la définition précédente de 'genererCha'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\guerrier.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\assassin.h(11): error C2504: 'Classe' : classe de base non définie
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C7525: les variables inline nécessitent au moins '/std:c++17'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(29): error C2334: jetons inattendus avant '{' ; corps apparent de la fonction ignoré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(49): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2143: erreur de syntaxe : absence de ';' avant '*'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(51): error C2238: jetons inattendus avant ';'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): error C2227: la partie gauche de '->getVie' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(33): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): error C2227: la partie gauche de '->getAtt' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(34): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): error C2227: la partie gauche de '->getDef' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(35): note: le type est 'unknown-type'
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2065: 'maClasse' : identificateur non déclaré
+m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): error C2227: la partie gauche de '->getCha' doit pointer vers un type class/struct/union/générique
+  m:\visual studio 2017\projects\projet semaine2\projet semaine2\aventurier.h(36): note: le type est 'unknown-type'
+  Génération de code en cours...
